@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499666369345",
+    "firebase_url": "https://cultureapp-2f6fe.firebaseio.com",
+    "project_id": "cultureapp-2f6fe",
+    "storage_bucket": "cultureapp-2f6fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499666369345:android:d9f2b5d925fd2a3fef7fc0",
+        "android_client_info": {
+          "package_name": "com.example.cultureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499666369345-9kgr4kg7lre56nm02cjc6b9vffosgr32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTwrHOp2U5Srb8igOqgIzwM8E1eDOlIhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499666369345-9kgr4kg7lre56nm02cjc6b9vffosgr32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
